@@ -1,4 +1,4 @@
-# Algoritmos basados en Entornos y Trayectorias
+# Algoritmos de búsqueda para resolver problemas del viajante de comercio
 :office: Universidad de Huelva (UHU)  
 :calendar: Curso 2020-2021  
 :mortar_board:Modelos Bioinspirados y Heurísticas de Búsqueda  
